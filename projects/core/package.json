@@ -2,8 +2,11 @@
   "name": "@akrons/core",
   "version": "0.0.1",
   "peerDependencies": {
-    "@angular/common": "^9.0.2",
-    "@angular/core": "^9.0.2",
+    "@angular/common": "9.x",
+    "@angular/core": "9.x",
+    "@angular/compiler": "9.x",
+    "@angular/platform-browser": "9.x",
+    "@angular/platform-browser-dynamic": "9.x",
     "tslib": "^1.10.0"
   }
 }
